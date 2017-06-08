@@ -1,4 +1,4 @@
-package template.library;
+package library;
 
 
 import processing.core.*;
